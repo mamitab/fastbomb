@@ -11,7 +11,7 @@
 git clone https://github.com/mamitab/fastbomb.git
 cd fastbomb
 pip3 install -r requirements.txt
-python3 fastbomb.py
+python3 bomb.py
 ```
 
 
