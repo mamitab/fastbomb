@@ -33,7 +33,7 @@ while 1:
 █████▄░░░└┴┴┴┴┴┴┴┘░░░▄█████
 ███████▄░░░░░░░░░░░▄███████
 ██████████▄▄▄▄▄▄▄██████████
-██████████████████████████    
+███████████████████████████    
     Sms: {}           {}by {}@mamiozp\n  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), Style.RESET_ALL, Fore.LIGHTRED_EX))
     try:
